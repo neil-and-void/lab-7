@@ -1,0 +1,7 @@
+q0: 
+q1: Django provides an ORM, schema migrator, admin dashboard and a bunch of other things that might be used in making a website
+q2: Representational State Transfer. It follows the REST standard and by being stateless
+q3: Create, Read, Update, Delete. Respectively: POST, GET, PUT, DELETE
+q4: 1xx means informational responses  2xx means success 3xx means redirects needed to complete request 4xx means client error and 5xx means server error
+q5: cross site scripting. If i can get a script to run on a webpage that others will view, I can steal things like tokens and cookies and do requests on their behalf and do bad stuff
+q6: cross origin resource sharing. When I only want my backend to talk to the host of my frontend web client
